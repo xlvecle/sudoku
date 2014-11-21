@@ -1,7 +1,7 @@
 sudoku
 ======
 
-A simple sudoku by python &amp; c++
+A simple program to solve sudoku by python &amp; c++
 
 + 1.cc: Solve sudoku by DLX
 + show.py: A python GUI to show the sudoku
