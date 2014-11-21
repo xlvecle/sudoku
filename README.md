@@ -10,4 +10,3 @@ A simple program to solve sudoku by python &amp; c++
 + solve_sudoku.sh: You can input a sudoku pirmary check to solve
 
 About DLX:[http://www.cnblogs.com/grenet/p/3145800.html]
-
