@@ -9,5 +9,5 @@ A simple sudoku by python &amp; c++
 + random.sh: You can use them to create a sudoku primary check
 + solve_sudoku.sh: You can input a sudoku pirmary check to solve
 
-[About DLX]:http://www.cnblogs.com/grenet/p/3145800.html
+About DLX:[http://www.cnblogs.com/grenet/p/3145800.html]
 
